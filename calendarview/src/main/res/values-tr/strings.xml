@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+  <string-array name="year_view_week_string_array">
+    <item>P</item> <!-- Pazar (Sunday) -->
+    <item>P</item> <!-- Pazartesi (Monday) -->
+    <item>S</item> <!-- Salı (Tuesday) -->
+    <item>Ç</item> <!-- Çarşamba (Wednesday) -->
+    <item>P</item> <!-- Perşembe (Thursday) -->
+    <item>C</item> <!-- Cuma (Friday) -->
+    <item>C</item> <!-- Cumartesi (Saturday) -->
+  </string-array>
+</resources>
